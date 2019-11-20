@@ -30,6 +30,7 @@ twitter_username: jekyllrb
 github_username:  pedrochaim
 
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
