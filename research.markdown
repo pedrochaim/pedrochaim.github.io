@@ -13,6 +13,6 @@ Peer Reviewed Articles
 
 In Progress
 
-- [Estimation and identification of a DSGE model: an application of the data cloning methodology.](https://teses.usp.br/teses/disponiveis/96/96131/tde-31032016-144306/publico/PedroLPChaim_Corrigida.pdf) (with Márcio Laurini)
-- [Estimating long memory stochastic volatility models using integrated nested Laplace approximations.](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fe4a2u7keri7sid7%2FINLA_SV_fGn_Artigo_1.pdf%3Fdl%3D0&sa=D) (with Márcio Laurini)
-- [Spatial Patterns in Brazilian State Legislative Elections.](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Ffsfyrgllun81q1a%2Feleicoes_legislativas_2014_eng_2019.pdf%3Fdl%3D0&sa=D) (with Márcio Laurini)
+- [Estimation and identification of a DSGE model: an application of the data cloning methodology](https://teses.usp.br/teses/disponiveis/96/96131/tde-31032016-144306/publico/PedroLPChaim_Corrigida.pdf). (with Márcio Laurini)
+- [Estimating long memory stochastic volatility models using integrated nested Laplace approximations](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fe4a2u7keri7sid7%2FINLA_SV_fGn_Artigo_1.pdf%3Fdl%3D0&sa=D). (with Márcio Laurini)
+- [Spatial Patterns in Brazilian State Legislative Elections](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Ffsfyrgllun81q1a%2Feleicoes_legislativas_2014_eng_2019.pdf%3Fdl%3D0&sa=D). (with Márcio Laurini)

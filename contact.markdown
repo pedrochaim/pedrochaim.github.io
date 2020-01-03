@@ -12,4 +12,4 @@ Universidade Federal de Santa Catarina
 Campus Universitário Trindade  
 Florianópolis - Santa Catarina - Brasil  
 CEP: 88040-970  
-e-mail: <pedro.chaim@ufsc.br>, <pchaim@live.com>  
+e-mail: <pchaim@live.com>  

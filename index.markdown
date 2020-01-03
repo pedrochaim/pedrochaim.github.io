@@ -5,7 +5,7 @@
 layout: default
 ---
 About me:  
-I am assistant professor of Economics at Universidade Federal de Santa Catarina, Florianópolis, Brazil.
+I am an assistant professor of Economics at Universidade Federal de Santa Catarina, Florianópolis, Brazil.
 
 Research interests:  
 - Financial econometrics: volatility modeling, price bubbles, cryptocurrencies.
